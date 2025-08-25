@@ -25,7 +25,7 @@ for i, char in enumerate(story):
         word = story[starting_index: i+1]
         words.add(word)
 
-print(words)
+# print(words)
 
 answers = {}
 
